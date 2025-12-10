@@ -3,11 +3,6 @@
 <br />
 <div align="center">
 
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="Drew Personal Portfolio Logo" width="120" />
-
-<br /><br />
-
 ## 👨‍💼 Drew – Personal Portfolio  
 A stylish, clean, and modern **Personal Portfolio Website** built using HTML, CSS, and JavaScript.  
 Designed to present your personal brand, projects, and professional profile in a visually appealing layout.

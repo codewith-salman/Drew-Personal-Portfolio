@@ -1,6 +1,5 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
 
 ## 👨‍💼 Drew – Personal Portfolio  
@@ -38,9 +37,8 @@ Best suited for:
 - Smooth scroll and animations  
 - Dedicated project & skills sections  
 - Clean and readable typography  
-- Contact & social links included  
-- Easy customization across sections  
-
+- Contact & social links included
+  
 ---
 
 ### 🛠️ Built With

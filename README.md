@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Drew%20Personal%20Portfolio/assets/images/desktop.png" alt="Drew Portfolio Logo" width="120"/>
+<img src="Drew%20Personal%20Portfolio/assets/images/logo.svg" alt="Drew Portfolio Logo" width="120"/>
 
 <br />
 <br />

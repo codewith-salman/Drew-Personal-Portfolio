@@ -71,8 +71,7 @@ Ideal for:
 - Fully responsive portfolio layout  
 - Minimal and modern visual theme  
 - Smooth scroll and animations  
-- Dedicated project & skills sections  
-- Clean and readable typography  
+- Dedicated project & skills sections   
 - Contact & social links included 
 
 ---

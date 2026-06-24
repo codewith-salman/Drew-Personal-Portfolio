@@ -21,7 +21,6 @@
 <img src="Drew%20Personal%20Portfolio/assets/images/logo.svg" alt="Drew Portfolio Logo" width="120"/>
 
 <br />
-<br />
 
 <h1 align="center">👨‍💼 Drew – Personal Portfolio</h1>
 
@@ -65,7 +64,6 @@ Ideal for:
 - Portfolio showcase  
 - Professional resume website  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -76,9 +74,7 @@ Ideal for:
 - Smooth scroll and animations  
 - Dedicated project & skills sections  
 - Clean and readable typography  
-- Contact & social links included  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+- Contact & social links included 
 
 ---
 
@@ -87,8 +83,6 @@ Ideal for:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 

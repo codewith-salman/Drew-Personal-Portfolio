@@ -61,8 +61,7 @@ Ideal for:
 - Job applications  
 - Freelancing  
 - Personal branding  
-- Portfolio showcase  
-- Professional resume website  
+- Portfolio showcase   
 
 
 ---
